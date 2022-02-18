@@ -24,7 +24,7 @@ export const experiences = [
     company: 'Sonata Software',
     designation: 'Software Engineer',
     duration: 'Dec 2015 - Apr 2018',
-    description: 'As a Software Engineer at Sonata Software, I was responsible for development of Hybrid Mobile applications using Angular, Ionic \& Cordova plugins in retail domain. I was successfully collaborated in designing REST APIs for the offline support & multiple user profile feature in applications.'
+    description: 'As a Software Engineer at Sonata Software, I was responsible for development of Hybrid Mobile applications using Angular, Ionic & Cordova plugins in retail domain. I was successfully collaborated in designing REST APIs for the offline support & multiple user profile feature in applications.'
   }
 ]
 export const projects = [
