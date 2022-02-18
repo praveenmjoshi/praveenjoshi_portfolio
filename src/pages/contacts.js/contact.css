@@ -1,0 +1,61 @@
+#contact{
+    padding: 2rem;
+}
+.contact-line-seperator{
+    color: rgb(156, 163, 175);
+}
+.contact-info{
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+.contact-icon{
+    height: 30px;
+    width: 10%;
+    margin-right: 0.5rem;
+}
+
+.about-summay{
+    width: 65%;
+    text-align: justify;
+}
+.contact-container{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding: 2rem 0;
+}
+
+.contact-link-container{
+    width: 35%;
+    margin-left: 2rem;
+    padding-left: 2rem;
+    border-left: 1px solid rgb(156, 163, 175);
+}
+
+@media only screen and (max-width: 800px) {
+    .about-summay{
+        width: 50%;
+    }
+    .contact-link-container{
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width: 486px){
+    .contact-container{
+        flex-direction: column;
+    }
+    .about-summay{
+        width: 100%;
+    }
+    .contact-link-container{
+        border-left: none;
+        border-top: 1px solid gray;
+        width: 100%;
+        margin: 1rem 0;
+        padding: 1rem 0;
+    }
+}
+
+

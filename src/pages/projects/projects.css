@@ -1,0 +1,12 @@
+.proj-description{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.project-card{
+    width: 50%;
+    padding: 1rem;
+}

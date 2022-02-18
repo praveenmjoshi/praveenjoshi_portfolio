@@ -1,0 +1,14 @@
+.skill_card{
+    padding: 0.5rem;
+    width: 33%;
+}
+.skills_renderer{
+    display: flex;
+    flex-grow: 1;
+    flex-flow: wrap;
+}
+@media only screen and (max-width: 486px) {
+    .skill_card{
+        width: 100%;
+    }
+}
