@@ -23,7 +23,7 @@ function Recommendations() {
                       <TextComp text={testimonial.name} color={'white'} size={'lg'} weight={'500'}/>
                       <TextComp text={testimonial.company} color={'gray'} size={'md'}  />
                       
-                      <a href={testimonial.ref} target="_blank" className="ref-link">
+                      <a href={testimonial.ref} target="_blank" className="ref-link" rel="noreferrer">
                           Reference
                       </a>
                   </div>
