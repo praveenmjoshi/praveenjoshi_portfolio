@@ -83,25 +83,25 @@ export const testimonials = [
     message: 'Working with Praveen is an enriching and a learning experience. He has a very impressive problem solving ability and debugging skills. I shall always cherish his guidance and mentoring. His dedication towards work and immense knowledge are an asset to any team.',
     name: 'Vinod',
     company: 'IBM, India',
-    ref: 'https://www.linkedin.com/in/praveen-joshi-2b3861b1/'
+    ref: 'https://www.linkedin.com/in/praveen-joshi-2b3861b1/details/recommendations/?detailScreenTabIndex=0'
   },
   {
     message: 'Praveen expertise as a Software Engineer is considerable. It was a pleasure working with him. He is a very productive person and a fast learner. He is the most profound person I have met, and his ability to tackle any problem is remarkable and with a warm smile. He is always very supportive person.',
     name: 'Abhilash',
     company: 'Elektrobit, Germany',
-    ref: 'https://www.linkedin.com/in/praveen-joshi-2b3861b1/'
+    ref: 'https://www.linkedin.com/in/praveen-joshi-2b3861b1/details/recommendations/?detailScreenTabIndex=0'
   },
   
   {
     message: 'There is no better colleague than Praveen. He is one of the most dedicated professionals I’ve worked with and is willing to put that extra help whenever you need it. His expertise as a developer is considerable, and it helped our team come up with more efficient solutions on different projects. His contribution is valuable to the side, and I highly recommend Praveen and would love to work with him again.',
     name: 'Utkarsh',
     company: 'L&T Technology services, India',
-    ref: 'https://www.linkedin.com/in/praveen-joshi-2b3861b1/'
+    ref: 'https://www.linkedin.com/in/praveen-joshi-2b3861b1/details/recommendations/?detailScreenTabIndex=0'
   },  
   {
     message: 'Praveen is an excellent resource, and He is good in web and Hybrid mobile technologies. He makes sure all the deadlines meet and that also with the highest standards. He is a hardworking and dedicated person who will complete your project in a given time frame. I would recommend and endorse Praveen',
     name: 'Sai B',
     company: 'Dun & Bradstreet, India',
-    ref: 'https://www.linkedin.com/in/praveen-joshi-2b3861b1/'
+    ref: 'https://www.linkedin.com/in/praveen-joshi-2b3861b1/details/recommendations/?detailScreenTabIndex=0'
   }
 ]
