@@ -34,7 +34,7 @@ export const projects = [
       description:
         "Hotstar Disney-plus App Clone is developed using ReactJS, JavaScript, Redux store, styled components, Material Icons and Animations, achieved 99% similarity",
       image: "./disney.png",
-      link: "https://github.com/praveenmjoshi/react_Hotstar_Disney_Plus_Clone",
+      link: "https://github.com/praveenmjoshi/ReactJS-Favourite-Clones/tree/main/disney-plus-clone",
     },
     {
       title: "Tesla Website Clone",
@@ -42,7 +42,7 @@ export const projects = [
       description:
         "Tesla Website Clone is developed using ReactJS, JavaScript, Redux store, styled components, Material Icons and Animations, achieved 99% similarity",
       image: "./tesla.png",
-      link: "https://github.com/praveenmjoshi/react_Tesla_Clone",
+      link: "https://github.com/praveenmjoshi/ReactJS-Favourite-Clones/tree/main/Tesla%20Clone",
     },
     {
       title: "Bookstore App",
