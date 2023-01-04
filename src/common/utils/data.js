@@ -2,7 +2,7 @@
 
 export const nameGreeting = 'Hello, I am Praveen Joshi 👋.'
 export const greetingSubText = 'I ❤️ JavaScript, React JS and everything about web developement.'
-export const profileDescription = "Software Development Engineer with over all 6+ years of experience into web development \
+export const profileDescription = "Software Development Engineer with over all 7+ years of experience into web development \
 including mobile applications, front-end development and contributing in the backend applications \
 in Sales Domain and Cloud Services."
 
